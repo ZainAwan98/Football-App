@@ -1,0 +1,7 @@
+flutter_application_id:
+  android:
+    id: "com.devbuds.android"
+    name: "My Team"
+  ios:
+    id: "com.devbuds.android"
+    name: "My Team"

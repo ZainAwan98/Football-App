@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "418019432116",
+    "project_id": "football-app-flutter",
+    "storage_bucket": "football-app-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418019432116:android:818856a3ba133930ade9e1",
+        "android_client_info": {
+          "package_name": "com.devbuds.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418019432116-qo5ah08a79hmuo7dm5n7o7n5jdsv3l20.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devbuds.android",
+            "certificate_hash": "68075a548471e15c41a2b992598381c90e9707eb"
+          }
+        },
+        {
+          "client_id": "418019432116-scqgleu4v3t2nnj2kufls7mmjcvaa1rd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMdtzlTIn74e4arlX4hO-ekXXfmWRGaYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418019432116-scqgleu4v3t2nnj2kufls7mmjcvaa1rd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
